@@ -23,7 +23,6 @@ const env={
         user:process.env.SMTP_USER,
         password:process.env.SMTP_PASSWORD,
         from:process.env.EMAIL_FROM,
-        name:process.env.EMAIL_FROM_NAME,
     }
 };
 
